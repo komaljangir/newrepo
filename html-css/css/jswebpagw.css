@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    align-items: center;
+}
+.logo img{
+    width: 33%;
+    border: 3px solid white;
+    border-radius: 50px;
+
+
+}
+.navbar{
+    display: flex;
+}
+.nav-list{
+    width: 50%;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    
+
+}
+.nav-list li{
+    list-style: none;
+    padding: 26px;
+   
+   
+
+}
+.nav-list li a{
+    text-decoration: none;
+    color: white;
+ }
+ .nav-list li a:hover{
+    color: gray;
+ }
+.rightnav{
+background-color: black;
+width: 50%;
+text-align: right;
+}
+#search{
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid gray;
+}
+.background{
+    background: rgb(0,0,0,0.7)url(../images/neon-80s-wallpaper.htm);
+    background-size: cover;
+    background-blend-mode: darken;
+}

@@ -1,0 +1,8 @@
+.an{
+    background-image: url(aaa.jpg);
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: inherit;
+    height: 91px;
+}
