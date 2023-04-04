@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(49, 43, 48, 0.505);
+}
+.box{
+    display: block;
+    
+}

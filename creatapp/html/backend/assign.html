@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const arr=["sonia","pooja","hina","sina","kina","opit"];
+        function myfunction (searchtxt){
+            const newarr =arr.filter(function (item) {
+            const itemdta= item.toLowerCase();
+            const searchdata = searchtxt.toLowerCase();
+            return itemdta.includes(searchdata);
+
+            });
+            console.log(newarr)
+        }
+        myfunction("h");
+    </script>
+    
+</body>
+</html>

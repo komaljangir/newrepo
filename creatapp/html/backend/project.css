@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+  background-color: cadetblue;
+  height: 50px;
+}
+.navbar ul li{
+    padding: 20px;
+    float: left;
+    list-style: none;
+    
+    
+
+}
+.navbar ul li a{
+    text-decoration: none;
+
+}
+.navbar ul{
+    margin-left: 47rem;
+    margin-top: -9px;
+    text-transform: capitalize;
+}
+
+.kk1 {
+    height: 40rem;
+    width: 47.4rem;
+    margin-top: -8px;
+    margin-left: 36.8rem;
+}
+
+.kk{
+background-color: black;
+height: 40rem;
+}
+
+.komal {
+    color: white;
+    margin-top: -23rem;
+    margin-left: 10rem;
+    font-size: 27px;
+    font-family: fangsong;
+   }
+.komal h1 span {
+    color: red;
+    margin-top: -8px;
+    padding-left: -2rem;
+    background-color: black;
+}
+.komal p{
+    font-size: 14px;
+}
+.navbar a:hover{
+    color: aqua;
+}
+
+
+.komal :hover{
+    color: pink;
+}
+.baba{
+    background-color: olive;
+    height: 100rem;
+}
+
+.contain{
+    display: flex;  
+}
+
+.ak a img {
+    height: 21rem;
+    width: 26.7rem;
+    padding: 10px;
+}
+
+.ak1 a img {
+    height: 21rem;
+background-color: white;
+color: black;
+
+    width: 27rem;
+    padding: 10px;
+}
+
+.ak1 :hover{
+   background-color: rgb(5, 226, 255);
+   color: rgb(255, 255, 255);
+   margin-top: -30px;
+    
+}
+.ak :hover{
+    background-color: rgb(0, 225, 255);
+     transform: scale(1);
+     margin-top: -30px;
+ }

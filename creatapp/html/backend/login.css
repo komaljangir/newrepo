@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg-img.jpeg);
+   background-size: cover;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}
+.loginbox{
+    width: 320px;
+    height: 420px;
+    
+    color:rgb(255, 255, 255);
+    top: 35%;
+    left: 35%;
+    position: absolute;
+    padding: 70px 30px;
+    background: url(ocean-3605547_960_720.jpg);
+    border: 2px solid white;
+    margin-top: 10px;
+}
+
+h1{
+    margin: 0;
+    padding:0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+a {
+    color: rgb(0, 236, 12);
+    margin-left: 10%;
+}
+
+a :hover{
+    color: red;
+}
+
+
+.loginbox form{
+    border: 2px solid white;
+    height: 78%;
+    width: 90%;
+    margin-left: 12px;
+    background-color: red;
+}
+
+input{
+    margin-left: 9%;
+    width: 80%;
+    height: 8%;
+}
+
+p{
+text-align: center;    
+}
+
+button{
+    width: 50%;
+    height: 10%;
+    text-align: center;
+    margin-left: 26%;
+    margin-top: 25px;
+}
+

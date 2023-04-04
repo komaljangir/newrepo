@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(../backend/images/pexels-georgie-devlin-8615714.);
+    background-position: center;
+
+}                                                                                                                                                                                                
+.sign{
+    width: 300px;
+    box-shadow: azure;
+    background: antiquewhite;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+
+}
+.sign h1{
+    color: chocolate;
+    margin-bottom: 30px;
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px saddlebrown;
+    outline: none;
+
+}
+.button{
+    color: darkgray;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: cadetblue;
+}
+.facebook-btn{
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+/* .or{
+    width: 30px;
+    background: alicebluess;
+    margin: -19px auto 10px;
+} */
+.om{
+    display: flex ;
+}
+.op{
+    width: 28rem;
+    margin: 6px;
+    height: 100px;
+    
+}
