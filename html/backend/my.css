@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  width: 80rem;
+}
+.navbar {
+  background-color: red;
+  height: 40px;
+}
+.navbar ul {
+  display: flex;
+  padding: 10px;
+  margin-left: -36px;
+}
+.navbar ul li {
+  list-style: none;
+  margin-left: 3rem;
+  padding: 2px;
+}
+.navbar ul li a {
+  text-decoration: none;
+}
+yup img {
+  display: flex;
+  margin-right: 45rem;
+  width: 20rem;
+}
+.ab img {
+  margin-top: -5rem;
+  position: relative;
+  margin-left: 39rem;
+}
+.abc {
+  position: relative;
+  margin-top: 1rem;
+  bottom: 61.7rem;
+}
+.text {
+  position: relative;
+  bottom: 72rem;
+  margin-left: 9rem;
+}

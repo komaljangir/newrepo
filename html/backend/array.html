@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text"id="ok" placeholder="enter your name">
+    
+    <button id="btn">add to array</button>
+    <button id="btw">print</button>
+
+    
+    <!-- <p id="ok"></p> -->
+    <script>
+        // var a=["komal","jangir"]
+        // document.getElementById("yes").onclick=function(){
+        //    let b= document.getElementById("ok").value;
+           
+
+        //    a.push(b)
+        //    
+    //     setInterval(displayhyy,1000);  
+    //     function displayhyy(){
+    //         document.getElementById("ok").innerHTML +="hyy"+"<br>";
+    //     }
+    // // setInterval(function(){
+    // //     // 
+    // //     document.getElementById().innerHTML +="hii"+"<br>"
+    // // 100})
+var a=[]
+document.querySelector("button").onclick=function(){
+    let b=document.querySelector("#ok").value
+    a.push(b)
+    console.log(a)
+
+
+
+    
+    
+}
+
+var index=0
+
+document.querySelector("#btw").onclick=function(){
+
+
+
+setInterval(() => {
+
+       
+        // document.write(a[index++],",")
+
+      document.querySelector("p").innerHTML=a[index++]+","
+        
+  
+
+    
+},1000);
+
+}
+        
+
+    </script>
+</body>
+</html>

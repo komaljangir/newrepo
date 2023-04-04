@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="slider.css">
+  
+</head>
+<body>
+<div class="slide-container">
+    <div class="slide">
+        <img src="1.jpg" alt="" class="img">
+   <div class="caption">caption text1</div>
+    </div>
+    <div class="slide">
+        <img src="2.jpg" alt="" class="img">
+   <div class="caption">caption text1</div>
+    </div>
+    <div class="slide">
+        <img src="3.jpg" alt="" class="img">
+   <div class="caption">caption text1</div>
+    </div>
+    <div class="slide">
+        <img src="4.jpg" alt="" class="img">
+   <div class="caption">caption text1</div>
+    </div>
+    <span class="arrow prev" onclick="prev()">&#10094;</span>
+    <span class="arrow next" onclick="next()">&#10095;</span>
+</div>
+<script>
+    const image=document.querySelectorAll(".img");
+    var counter=0;
+    console.log(image)
+    image.forEach((a,b)=>{
+
+
+
+
+        a.style.left=`${b*100}%`
+
+    })
+    const next =function(){
+        counter++;
+        slideimage()
+    }
+    const prev=()=>{
+        counter--;
+        slideimage()
+    }
+    const slideimage = ()=>{
+        image.forEach((a)=>{
+            a.style.transform =`translateX(-${counter*100}%)`
+            console.log(a)
+
+        })
+    }
+</script>
+
+
+
+</div>
+
+    
+</body>
+</html>

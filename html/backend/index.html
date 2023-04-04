@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>
+This is my first web page
+</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">about us </a></li>
+<li><a href="#">contact us</a></li>
+<li><a href="#">Gallery</a></li>
+<li><a href="#">Services</a></li>
+<div class="search">
+<input type="text" name="search" placeholder="search here">
+</div>
+<div class="submit">
+<h1>sing up</h1>
+<form action="">
+<label>email</label><br><br>
+<input type="email" name="email" id="eamil" placeholder="enter your email" height="20">
+<br><br>
+<label>name</label><br><br>
+<input type="name" placeholder="enter your name"><br><br>
+<label>password</label><br><br>
+<input type="password" placeholder="enter your password"><br><br>
+<label>confirm password</label><br><br>
+<input type="password" name="" id="password" placeholder="enter your password"><br><br>
+<button>Submit</button>
+</form>
+<script>
+<function onlogin(){
+//a.preventdefault();
+console.log("<<<<<<<<<<<<<<<<<<")
+var emailElement=document.getElementByID("email");
+var nameElement=document.getElememtByID("name");
+var passwordElement=document.getElementByID("password");
+var confirmpasswordElement=document.getElementByID("confirm password");
+console.log(
+"============="
+emailElement.value,
+nameElement.value,
+passwordElement.value,
+confirmpasswordElement.value,
+);
+}
+</ul>
+</nav>
+</header>
+</body>
+</html>
