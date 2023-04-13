@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    height: 97px;
+    vertical-align: middle;
+    width: 221px;
+}
+.out button{
+    border: none;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 953px;
+    cursor: pointer;
+    background: none;
+} 
+.step {
+    margin-left: 14pc;
+    font-size: small;
+    position: relative;
+    margin-top: 20px;
+}
+.step1 {
+    font-size: xx-large;
+    margin-left: 222px;
+    font-family: sans-serif;
+    position: relative;
+    margin-top: 5px;
+}
+.step2 {
+    position: relative;
+    margin-left: 250px;
+    font-family: sans-serif;
+    font-weight: initial;
+    margin-top: 8px;
+}
+.done1 {
+    height: 33px;
+    width: 40px;
+    position: relative;
+    left: 203px;
+    top: -118px;
+}
+.done2 {
+    height: 33px;
+    width: 40px;
+    position: relative;
+    left: 158px;
+    top: -83px;
+}
+.done3 {
+    height: 33px;
+    width: 40px;
+    position: relative;
+    left: 113px;
+    top: -43px;
+}
+.mobile {
+    height: 42px;
+    width: 71px;
+    background-color: red;
+    padding-top: 55px;
+    padding-left: 32px;
+    margin-left: 621px;
+}
+.basic {
+     
+    height: 42px;
+    width: 71px;
+    background-color: red;
+    padding-top: 55px;
+    padding-left: 32px;
+    margin-left: 17px;
+    }
+
+    .basic  p{
+        margin-right: 33px;
+        padding-left: 0;
+        margin-top: -12px;
+    }
+.std{
+    height: 42px;
+    width: 71px;
+    background-color: red;
+    padding-top: 55px;
+    padding-left: 32px;
+    margin-left: 17px;
+}
+.std p{
+    margin-right: 33px;
+    padding-left: 0;
+    margin-top: -12px;
+}
+.pre {
+    height: 42px;
+    width: 77px;
+    background-color: red;
+    padding-top: 55px;
+    padding-left: 25px;
+    margin-left: 17px;
+}
+.pre p{
+    margin-right: 33px;
+    padding-left: 0;
+    margin-top: -12px;  
+}
+
+.main{
+display: flex;
+}
+.mobile p{
+    margin-right: 33px;
+    padding-left: 0;
+    margin-top: -12px;
+}

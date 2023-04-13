@@ -45,7 +45,11 @@
     background-color: red;
     margin-left: 32rem;
     outline: none;
+    border: none;
     
+}
+.btn{
+    outline: none;
 }
 .iocn1{
 
@@ -100,7 +104,81 @@
 }
 .text {
     font-family: monospace;
+    background-color: #f3f3f3;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+
+}
+.txt {
+    margin-left: 66px;
+    font-size: large;
+    /* font-weight: initial; */
+    font-weight: initial;
+    color: gray;
+    margin-top: 32px;
+}
+.txt1 {
+    margin-left: 66px;
+    position: relative;
+    margin-top: 35px;
+    color: grey;
+    font-size: larger;
+}
+.txt2 {
+    margin-left: 66px;
+    position: relative;
+    color: grey;
+    margin-top: 20px;
+    font-size: larger;
+    
 }
 
 
+.txt3 {
+    margin-left: 347px;
+    position: relative;
+    color: grey;
+    margin-top: -55px;
+    font-size: larger;
+}
+.txt4 {
+    position: relative;
+    margin-left: 323px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
+.txt5 {
+    position: relative;
+    margin-left: 532px;
+    color:gray;
+    margin-top: -56px;
+    font-size: larger;
+}
+.txt6 {
+    position: relative;
+    margin-left: 532px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
 
+.txt7 {
+    position: relative;
+    margin-left: 868px;
+    color: gray;
+    margin-top: -59px;
+    font-size: larger;
+}
+.text8 {
+    height: 49px;
+    width: 123px;
+    font-size: larger;
+    color: gray;
+    position: relative;
+    margin-top: 61px;
+    margin-left: 63px;
+    outline: none;
+    
+}
