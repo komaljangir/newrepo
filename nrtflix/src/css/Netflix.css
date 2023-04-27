@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hr img{
+ margin-left: -50px;
+}
+.hr h3 {
+    margin-left: 79rem;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.hr h3:hover{
+    color: red;
+    cursor: pointer;
+}
+.hr img {
+    height: 102px;
+    margin-left: 2rem;
+    margin-top: 3px;
+    width: 217px;
+}
+.step{
+    font-size: small;
+}
+.step1 span{
+
+    margin-left: 38rem;
+}
+.step1 h2 {
+    margin-left: 32rem;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.step1 p {
+    margin-left: 34rem;
+    font-style: normal;
+    font-size: larger;
+    font-family: math;
+}
+.btn button{
+    height: 50px;
+    width: 300px;
+    font-weight: 900;
+    background-color: red;
+    margin-left: 32rem;
+    outline: none;
+    border: none;
+    
+}
+.btn{
+    outline: none;
+}
+.iocn1{
+
+}
+
+.step1{
+    width: 100%;
+}
+.icon img {
+    margin-left: 37.4rem;
+    height: 50px;
+    margin-top: 70px;
+    padding: 20px;
+}
+.line{
+    margin-top: -26px;
+}
+.out{
+
+}
+
+.hr button {
+    border: none;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 953px;
+    cursor: pointer;
+    background: none;
+}
+
+.tick1 {
+    height: 23px;
+    width: 26px;
+    margin-left: 497px;
+    position: absolute;
+    margin-top: -215px;
+}
+.tick2{
+    height: 23px;
+    width: 26px;
+    margin-left: 497px;
+    position: absolute;
+    margin-top: -150px;
+}
+.tick3 {
+    height: 23px;
+    width: 26px;
+    margin-left: 497px;
+    position: absolute;
+    margin-top: -89px;
+}
+.text {
+    font-family: monospace;
+    background-color: #f3f3f3;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+
+}
+.txt {
+    margin-left: 66px;
+    font-size: large;
+    /* font-weight: initial; */
+    font-weight: initial;
+    color: gray;
+    margin-top: 32px;
+}
+.txt1 {
+    margin-left: 66px;
+    position: relative;
+    margin-top: 35px;
+    color: grey;
+    font-size: larger;
+}
+.txt2 {
+    margin-left: 66px;
+    position: relative;
+    color: grey;
+    margin-top: 20px;
+    font-size: larger;
+    
+}
+
+
+.txt3 {
+    margin-left: 347px;
+    position: relative;
+    color: grey;
+    margin-top: -55px;
+    font-size: larger;
+}
+.txt4 {
+    position: relative;
+    margin-left: 323px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
+.txt5 {
+    position: relative;
+    margin-left: 532px;
+    color:gray;
+    margin-top: -56px;
+    font-size: larger;
+}
+.txt6 {
+    position: relative;
+    margin-left: 532px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
+
+.txt7 {
+    position: relative;
+    margin-left: 868px;
+    color: gray;
+    margin-top: -59px;
+    font-size: larger;
+}
+.text8 {
+    height: 49px;
+    width: 123px;
+    font-size: larger;
+    color: gray;
+    position: relative;
+    margin-top: 61px;
+    margin-left: 63px;
+    outline: none;
+    
+}

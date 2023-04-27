@@ -8,55 +8,56 @@
     width: 221px;
     margin-left: -1042px;
 }
-.out button{
+.out button {
     border: none;
     font-size: 19px;
     position: absolute;
     margin-top: 41px;
-    margin-left: 953px;
+    margin-left: 912px;
     cursor: pointer;
     background: none;
-} 
+}
 .step {
-    margin-left: 14pc;
+    margin-left: -49pc;
     font-size: small;
     position: relative;
     margin-top: 20px;
 }
 .step1 {
     font-size: xx-large;
-    margin-left: 222px;
+    margin-left: -23pc;
     font-family: sans-serif;
     position: relative;
     margin-top: 5px;
+    color: #201f1f;
 }
 .step2 {
     position: relative;
-    margin-left: 250px;
+    margin-left: -45px;
     font-family: sans-serif;
     font-weight: initial;
     margin-top: 8px;
 }
 .done1 {
-    height: 33px;
-    width: 40px;
+    height: 31px;
+    width: 33px;
     position: relative;
-    left: 203px;
-    top: -118px;
+    left: -377px;
+    top: -143px;
 }
 .done2 {
-    height: 33px;
-    width: 40px;
+    height: 31px;
+    width: 33px;
     position: relative;
-    left: 158px;
-    top: -83px;
+    left: -415px;
+    top: -114px;
 }
 .done3 {
-    height: 33px;
-    width: 40px;
+    height: 31px;
+    width: 33px;
     position: relative;
-    left: 113px;
-    top: -43px;
+    left: -449px;
+    top: -85px;
 }
 .mobile {
     height: 42px;
@@ -236,3 +237,21 @@ display: flex;
         height: 100px;
         width: 500px;
     }
+.st {
+    position: absolute;
+    left: 262px;
+    top: -18px;
+    color: #2c2a2a;
+}
+.st1 {
+    position: absolute;
+    left: 262px;
+    top: 8px;
+    color: #2c2a2a;
+}
+.st2 {
+    position: absolute;
+    left: 261px;
+    top: 36px;
+    color: #2c2a2a;
+}

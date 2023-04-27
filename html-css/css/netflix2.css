@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo1 {
+    height: 79px;
+    width: 190px;
+}
+  button{
+    border: none;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 953px;
+    cursor: pointer;
+    background: none
+}
