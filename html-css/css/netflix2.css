@@ -15,3 +15,130 @@
     cursor: pointer;
     background: none
 }
+.step {
+    position: absolute;
+    left: 40pc;
+    top: 23pc;
+    font-size: small;
+    color: #2c2929;
+}
+.step1 {
+    position: absolute;
+    left: 33pc;
+    top: 24pc;
+    color: #2e2b2b;
+    font-size: revert;
+}
+.step2 {
+    position: absolute;
+    left: 529px;
+    top: 461px;
+    font-size: larger;
+    color: #1e1c1c;
+}
+.st1 {
+    /* position: absolute; */
+    left: 620px;
+    top: 26pc;
+    position: absolute;
+    color: #2e2b2b;
+    font-size: revert;
+}
+.st2 {
+    position: absolute;
+    left: 627px;
+    top: 500px;
+    font-size: larger;
+    color: #1e1c1c;
+}
+.bt1 {
+    height: 50px;
+    width: 300px;
+    font-weight: 900;
+    background-color: red;
+    margin-left: 33rem;
+    outline: none;
+    border: none;
+    position: absolute;
+    top: 537px;
+}
+.tx1{
+    margin-left: 66px;
+    font-size: large;
+    /* font-weight: initial; */
+    font-weight: initial;
+    color: gray;
+    margin-top: 32px;
+}
+.tx2{
+    margin-left: 66px;
+    position: relative;
+    margin-top: 35px;
+    color: grey;
+    font-size: larger;
+}
+.tx3{
+    margin-left: 66px;
+    position: relative;
+    color: grey;
+    margin-top: 20px;
+    font-size: larger;
+}
+.tx4{
+    margin-left: 347px;
+    position: relative;
+    color: grey;
+    margin-top: -55px;
+    font-size: larger;
+}
+.tx5{
+    position: relative;
+    margin-left: 323px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+
+}
+.tx6{
+    position: relative;
+    margin-left: 532px;
+    color:gray;
+    margin-top: -56px;
+    font-size: larger;
+}
+.tx7{
+    position: relative;
+    margin-left: 532px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
+.tx8{
+    position: relative;
+    margin-left: 868px;
+    color: gray;
+    margin-top: -59px;
+    font-size: larger;
+
+}
+.text9{
+    font-family: monospace;
+    background-color: #f3f3f3;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    top: 48pc;
+}
+.tx9{
+   
+
+    height: 49px;
+    width: 123px;
+    font-size: larger;
+    color: gray;
+    position: relative;
+    margin-top: 61px;
+    margin-left: 63px;
+    outline: none;
+}
+

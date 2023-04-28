@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.netclone img{
+    height: 102px;
+    margin-left: 2rem;
+    margin-top: 3px;
+    width: 217px;
+}
+.netclone button{
+    border: none;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 953px;
+    cursor: pointer;
+    background: none;
+}
+.pic img {
+    height: 47px;
+    width: 47px;
+    position: absolute;
+    left: 40pc;
+    top: 143px;
+}
+.step1 {
+    position: absolute;
+    left: 620px;
+    top: 220px;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+
+element.style {
+}
+.step2 {
+    position: absolute;
+    left: 539px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    top: 238px;
+    font-weight: bold;
+    color: #443e3e;
+
+}
+
+
+.step3 {
+    position: absolute;
+    left: 479px;
+    top: 286px;
+    font-size: larger;
+    font-family: sans-serif;
+    color: #5c5656;
+}
+
+
+.step4 {
+    position: absolute;
+    left: 582px;
+    top: 309px;
+    font-size: larger;
+    font-family: sans-serif;
+    color: #5c5656;
+}
+.step5{
+position: absolute;
+left: 592px;
+top: 342px;
+font-size: larger;
+font-family: sans-serif;
+color: #0a0606;
+}
+.step6 {
+    position: absolute;
+    left: 612px;
+    top: 365px;
+    font-size: larger;
+    font-family: sans-serif;
+    color: #0a0606;
+}
+.cd {
+    position: absolute;
+    left: 521px;
+    top: 420px;
+    height: 50px;
+    width: 376px;
+}
+.upi{
+
+}
