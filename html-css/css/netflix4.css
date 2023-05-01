@@ -21,22 +21,21 @@
     height: 47px;
     width: 47px;
     position: absolute;
-    left: 40pc;
+    left: 663px;
     top: 143px;
 }
 .step1 {
     position: absolute;
-    left: 620px;
+    left: 646px;
     top: 220px;
     font-family: sans-serif;
     font-size: smaller;
 }
 
-element.style {
-}
+
 .step2 {
     position: absolute;
-    left: 539px;
+    left: 546px;
     font-size: xx-large;
     font-family: sans-serif;
     top: 238px;
@@ -82,11 +81,156 @@ color: #0a0606;
 }
 .cd {
     position: absolute;
-    left: 521px;
+    left: 500px;
     top: 420px;
-    height: 50px;
-    width: 376px;
+    height: 59px;
+    width: 405px;
 }
-.upi{
+.upi {
+    position: absolute;
+    left: 499px;
+    height: 58px;
+    top: 493px;
+    width: 408px;
+}
 
+.lock {
+    position: absolute;
+    left: 765px;
+    top: 404px;
+    font-size: smaller;
+    color: #403737;
+    font-family: sans-serif;
+}
+.lock2 img {
+    position: absolute;
+    left: 895px;
+    top: 401px;
+    height: 16px;
+    width: 12px;
+}
+.tx1{
+    margin-left: 66px;
+    font-size: large;
+    /* font-weight: initial; */
+    font-weight: initial;
+    color: gray;
+    margin-top: 32px;
+}
+.tx2{
+    margin-left: 66px;
+    position: relative;
+    margin-top: 35px;
+    color: grey;
+    font-size: larger;
+}
+.tx3{
+    margin-left: 66px;
+    position: relative;
+    color: grey;
+    margin-top: 20px;
+    font-size: larger;
+}
+.tx4{
+    margin-left: 347px;
+    position: relative;
+    color: grey;
+    margin-top: -55px;
+    font-size: larger;
+}
+.tx5{
+    position: relative;
+    margin-left: 323px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+
+}
+.tx6{
+    position: relative;
+    margin-left: 532px;
+    color:gray;
+    margin-top: -56px;
+    font-size: larger;
+}
+.tx7{
+    position: relative;
+    margin-left: 532px;
+    color: gray;
+    margin-top: 20px;
+    font-size: larger;
+}
+.tx8{
+    position: relative;
+    margin-left: 868px;
+    color: gray;
+    margin-top: -59px;
+    font-size: larger;
+
+}
+.tx9{
+   
+
+    height: 49px;
+    width: 123px;
+    font-size: larger;
+    color: gray;
+    position: relative;
+    margin-top: 61px;
+    margin-left: 63px;
+    outline: none;
+}
+.text0{
+    font-family: monospace;
+    background-color: #f3f3f3;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    top: 48pc;
+}
+.phone {
+    margin-top: 358px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.visa {
+    margin-top: 285px;
+    margin-left: -40px;
+}
+.bhim {
+    /* margin-left: -48px; */
+    margin-top: 358px;
+    cursor: pointer;
+    margin-left: -68px;
+    margin-left: -45px;
+}
+.pytm {
+    margin-top: 358px;
+    cursor: pointer;
+    margin-left: -19px;
+}
+.amazon {
+    margin-top: 358px;
+    cursor: pointer;
+    margin-left: 79px;
+}
+.amex2 {
+    margin-left: 60px;
+    margin-top: 14opx;
+    margin-top: 285px;
+}
+.gpay {
+    margin-top: 358px;
+    cursor: pointer;
+    margin-left: 128px;
+}
+.mcard {
+    margin-top: 285px;
+    cursor: pointer;
+    margin-left: 11px;
+}
+.din {
+    margin-top: 285px;
+    cursor: pointer;
+    margin-left: 109px;
 }

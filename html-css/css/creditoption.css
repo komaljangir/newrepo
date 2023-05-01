@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.data img{
+    height: 102px;
+    margin-left: 2rem;
+    margin-top: 3px;
+    width: 217px;
+}
+.data button{
+    border: none;
+    font-size: 19px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 953px;
+    cursor: pointer;
+    background: none;
+}
+.txt {
+    position: absolute;
+    left: 433px;
+    top: 140px;
+    font-family: sans-serif;
+    font-size: small;
+}
